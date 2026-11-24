@@ -1,5 +1,5 @@
 // Service Worker: guarda la guía para usarla sin internet
-const CACHE = 'maracaibo-sacra-unir-v1';
+const CACHE = 'maracaibo-sacra-unir-v2';
 const CORE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 const OPTIONAL = ['./logo-unir.png']; // si el archivo existe, también se guarda
 
